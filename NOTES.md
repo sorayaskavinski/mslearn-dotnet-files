@@ -6,26 +6,27 @@
 Tested GET /Pizza successfully.
 Status code: 200 OK.
 
-![alt text](GET.png)
-![alt text](GET1.png)
+![GET](EVIDENCE/GET.png)
+
+![GET1](EVIDENCE/GET1.png)
 
 ### POST
 Added an additional pizza using POST /Pizza.
 Status code: 201 Created.
 
-![alt text](POST.png)
+![GET](EVIDENCE/POST.png)
 
 ### PUT
 Updated the pizza using PUT /Pizza/{id}.
 Status code: 204 No Content.
 
-![alt text](PUT.png)
+![GET](EVIDENCE/PUT.png)
 
 
 ### DELETE
 Deleted the pizza using DELETE /Pizza/{id}.
 Status code: 204 No Content.
-![alt text](DELETE.png)
+![GET](EVIDENCE/DELETE.png)
 
 ## Sales Summary
 
